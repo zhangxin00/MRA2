@@ -1,4 +1,4 @@
-# MRA2 --2021
+# MRA2 -2021
 An effective black-box attack methodology named malicious-function Reserved Automated Attack (MRA2) against ML-based malware detection models.
 
 The following guide will help you install and run the project on your local machine.
